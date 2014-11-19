@@ -1,6 +1,6 @@
 // I2C Scanner
-// Written by Nick Gammon
-// Date: 20th April 2011
+// Ecrit par Sonny Lorenz
+// Date: 18.11.2014
 
 #include <Wire.h>
 
